@@ -1,3 +1,3 @@
 # Binhhoatrangtri
-Binhhoatrangtri»‘c http://Binhhoatrangtri.com
+Binhhoatrangtri  http://Binhhoatrangtri.com
 
