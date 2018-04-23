@@ -1,5 +1,5 @@
 ---
-title: 'Tủ lạnh 3k - Thương hiệu tủ lạnh cấp cao do Bakadono cung cấp'
+title: 'Bình hoa trang tri - Thương hiệu bình hoa cấp cao do Midorishop cung cấp'
 layout: HomePage
 path: '/'
 meta: Tủ lạnh 3k - Thương hiệu tủ lạnh cấp cao do Bakadono cung cấp
