@@ -27,7 +27,6 @@ Tại Phú Quốc:
 
 Hình thức thanh toán mà Midorishop có thể đáp ứng với khách hàng tính đến thời điểm hiện tại. "cập nhật vào lúc 3:00AM 14/09/2017"
 Hiện tại, **Midorishop** sở hữu 3 loại tài khoản ở các ngân hàng sau:
-![Midorishop Payment accept](http://cdn.bakadono.com/assets/img/favicons/bakadono/payment/accept_payment.jpg "Midorishop Payment accept")
 
 ### Thứ tự ưu tiên
 
@@ -46,7 +45,7 @@ Hiện tại, **Midorishop** sở hữu 3 loại tài khoản ở các ngân hà
 
 ---
 
-| **Sacombank** |  |  ![Midorishop Payment accept](http://cdn.bakadono.com/assets/img/favicons/bakadono/payment/agribank.jpg "Midorishop Payment accept") |
+| **Sacombank** |  
 |:-----------|------------:|------------:|
 | Chi nhánh       |  |         Ngân hàng thương mại cổ phần Sài Gòn Thương Tín – Tp. Hồ Chí Minh |
 | Chủ tài khoản     |  |       **Lê Thị Thảo Nguyên** |
@@ -54,7 +53,7 @@ Hiện tại, **Midorishop** sở hữu 3 loại tài khoản ở các ngân hà
 
 ---
 
-| **Citibank** |  |  ![Midorishop Payment accept](http://cdn.bakadono.com/assets/img/favicons/bakadono/payment/acb.jpg "Midorishop Payment accept") |
+| **Citibank** |  
 |:-----------|------------:|------------:|
 | Chi nhánh       |  |         Ngân hàng Citibank Việt Nam – Tp. Hồ Chí Minh |
 | Chủ tài khoản     |  |       **Lê Thị Thảo Nguyên** |
