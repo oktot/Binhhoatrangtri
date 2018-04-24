@@ -26,6 +26,13 @@ module.exports = React.createClass({
     return (
       <html lang="en">
         <head>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9658517195365835",
+    enable_page_level_ads: true
+  });
+</script>
 		  <script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' />
 		  { process.env.NODE_ENV === 'production' ? GoogleAdSenseSetup : null }
           <meta charSet="utf-8" />
@@ -39,6 +46,7 @@ module.exports = React.createClass({
 		  <meta name="google-site-verification" content='d9ktQdSdvZcuuwxBsSsreBoPrB667YE1gWzvdlYHhV0' />
 		  <meta name="format-detection" content='telephone=no' />
           {head.meta.toComponent()}
+
         </head>
         <body>
 		<div id="fb-root"></div>
