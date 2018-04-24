@@ -45,7 +45,7 @@ Hiện tại, **Midorishop** sở hữu 3 loại tài khoản ở các ngân hà
 
 ---
 
-| **Sacombank** |  |  ![Midorishop Payment accept] "Midorishop Payment accept") |
+| **Sacombank** |  | ![Midorishop Payment accept](http://cdn.bakadono.com/assets/img/favicons/bakadono/payment/Sacombank.jpg "Midorishop Payment accept") |
 |:-----------|------------:|------------:|
 | Chi nhánh       |  |         Ngân hàng thương mại cổ phần Sài Gòn Thương Tín – Tp. Hồ Chí Minh |
 | Chủ tài khoản     |  |       **Lê Thị Thảo Nguyên** |
@@ -53,7 +53,7 @@ Hiện tại, **Midorishop** sở hữu 3 loại tài khoản ở các ngân hà
 
 ---
 
-| **Citibank** |  |  ![Midorishop Payment accept] "Midorishop Payment accept") |
+| **Citibank** |  |  ![Midorishop Payment accept](http://cdn.bakadono.com/assets/img/favicons/bakadono/payment/Citibank.jpg "Midorishop Payment accept") |
 |:-----------|------------:|------------:|
 | Chi nhánh       |  |         Ngân hàng Citibank Việt Nam – Tp. Hồ Chí Minh |
 | Chủ tài khoản     |  |       **Lê Thị Thảo Nguyên** |
