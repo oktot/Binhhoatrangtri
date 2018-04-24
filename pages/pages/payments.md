@@ -25,18 +25,9 @@ Tại Phú Quốc:
 
 ## Thanh toán trực tuyến
 
-Hình thức thanh toán mà Midorishop có thể đáp ứng với khách hàng tính đến thời điểm hiện tại. "cập nhật vào lúc 3:00AM 14/09/2017"
-Hiện tại, **Midorishop** sở hữu 3 loại tài khoản ở các ngân hàng sau:
-
-### Thứ tự ưu tiên
-
-1. **VCB**
-2. **Sacombank**
-3. **Citibank**
-
+Bạn đến bất kỳ ngân hàng nào ở Việt Nam để chuyển tiền theo thông tin bên dưới (bạn không nhất thiết phải có tài khoản ngân hàng)
 
 ---
-
 | **VCB** |  |  ![Midorishop Payment accept](http://cdn.bakadono.com/assets/img/favicons/bakadono/payment/vietcombank.jpg "Midorishop Payment accept") |
 |:-----------|------------:|------------:|
 | Chi nhánh       |  |         Ngân hàng TMCP Ngoại Thương Việt Nam – Tp. Hồ Chí Minh |
@@ -44,20 +35,3 @@ Hiện tại, **Midorishop** sở hữu 3 loại tài khoản ở các ngân hà
 | Số tài khoản       |  |         **007 100 063 72 68** |
 
 ---
-
-| **Sacombank** |  | ![Midorishop Payment accept](https://www.sacombank.com.vn/PublishingImages/Images/logo.png "Midorishop Payment accept") |
-|:-----------|------------:|------------:|
-| Chi nhánh       |  |         Ngân hàng thương mại cổ phần Sài Gòn Thương Tín – Tp. Hồ Chí Minh |
-| Chủ tài khoản     |  |       **Lê Thị Thảo Nguyên** |
-| Số tài khoản       |  |         **060 003  605 631** |
-
----
-
-| **Citibank** |  |  ![Midorishop Payment accept](http://cdn.bakadono.com/assets/img/favicons/bakadono/payment/Citibank.jpg "Midorishop Payment accept") |
-|:-----------|------------:|------------:|
-| Chi nhánh       |  |         Ngân hàng Citibank Việt Nam – Tp. Hồ Chí Minh |
-| Chủ tài khoản     |  |       **Lê Thị Thảo Nguyên** |
-| Số tài khoản       |  |         **100 040 65 85** |
-
-
-
