@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục Trà Sữa Phú Quốc'
+title: 'Bình hoa trang trí'
 layout: Artists
 path: '/artists/'
-meta: Danh mục Trà Sữa Phú Quốc
-keywords: Danh mục Trà Sữa Phú Quốc
+meta: Danh mục Bình hoa trang trí
+keywords: Bình hoa trang trí
 ---

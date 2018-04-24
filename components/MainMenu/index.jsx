@@ -5,8 +5,8 @@ import { config } from 'config'
 import Ink from 'react-ink'
 
 import './style.scss'
-import iconReleases from '../../static/img/svg-icons/mini.svg'
-import iconArtists from '../../static/img/svg-icons/tulanh.svg'
+import iconReleases from '../../static/img/svg-icons/binhhoathap.svg'
+import iconArtists from '../../static/img/svg-icons/binhhoacao.svg'
 import iconEvents from '../../static/img/svg-icons/news.svg'
 
 class MainMenu extends React.Component {
@@ -20,13 +20,13 @@ class MainMenu extends React.Component {
 
                 <Link to={ prefixLink('/releases/')} className={`mainmenu__link ${ location.pathname.indexOf(prefixLink('/releases/')) == 0 ? 'is-selected' : '' }`} >
                     <img className='mainmenu__link-icon' src={ prefixLink(iconReleases) }/>
-                    <span className='mainmenu__link-name'>Mini</span>
+                    <span className='mainmenu__link-name'>Bình hoa thấp</span>
                     <Ink />
                 </Link> 
 
                 <Link to={ prefixLink('/artists/')} className={`mainmenu__link ${ location.pathname.indexOf(prefixLink('/artists/')) == 0 ? 'is-selected' : '' }`} >
                     <img className='mainmenu__link-icon' src={ prefixLink(iconArtists) }/>
-                    <span className='mainmenu__link-name'>Tủ lạnh</span>
+                    <span className='mainmenu__link-name'>Bình hoa cao</span>
                     <Ink />
                 </Link> 
 

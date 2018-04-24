@@ -1,24 +1,24 @@
 ---
-title: 'Giới thiệu Tủ lạnh 3k - Thương hiệu Tủ lạnh do Bakadono cung cấp'
+title: 'Giới thiệu Bình hoa trang trí - Thương hiệu Bình hoa trang trí do Midorishop cung cấp'
 layout: HomePage
 path: '/about/'
-meta: Giới thiệu Tủ lạnh 3k - Thương hiệu Tủ lạnh do Bakadono cung cấp
-keywords: Giới thiệu Tủ lạnh 3k - Thương hiệu Tủ lạnh do Bakadono cung cấp
+meta: Giới thiệu Bình hoa trang trí - Thương hiệu Bình hoa trang trí do Midorishop cung cấp
+keywords: Giới thiệu Bình hoa trang trí - Thương hiệu Bình hoa trang trí do Midorishop cung cấp
 ---
 
-Tủ lạnh 3k - Thương hiệu Tủ lạnh do Bakadono cung cấp giới thiệu
+Giới thiệu Bình hoa trang trí - Thương hiệu Bình hoa trang trí do Midorishop cung cấp
 
-**Tủ lạnh 3k - Thương hiệu Tủ lạnh do Bakadono cung cấp** khởi nguồn được chính thức thành lập bởi **Bakadono** vào ngày 25 tháng 11 năm 2017 từ hệ thống kinh doanh cũ nhỏ thành lập từ Facebook [**Thảo Am Tân Uyên**](https://www.facebook.com/thaoamtanuyen).
+**Giới thiệu Bình hoa trang trí - Thương hiệu Bình hoa trang trí do Midorishop cung cấp** khởi nguồn được chính thức thành lập bởi **Midorishop** vào ngày 24 tháng 04 năm 2018 từ hệ thống kinh doanh hoa vải, bình hoa trang trí tiệc cưới, ghế Tiffany.
 
-Chuyên về các dòng Tủ lạnh bền bỉ, tốt, sử dụng lâu dài.
+Chuyên về các dòng bình hoa cao cấp, sang trọng, bền bỉ, tốt, sử dụng lâu dài.
 
-## Thông tin chi tiết Tủ lạnh 3k - Thương hiệu Tủ lạnh do Bakadono cung cấp Quán
+## Giới thiệu Bình hoa trang trí - Thương hiệu Bình hoa trang trí do Midorishop cung cấp
 
-Tên gọi: **Tủ lạnh 3k - Thương hiệu Tủ lạnh do Bakadono cung cấp** 
+Tên gọi: **Giới thiệu Bình hoa trang trí - Thương hiệu Bình hoa trang trí do Midorishop cung cấp** 
 
-Điện thoại liên hệ: [**0125 722 3268**](tel:+841257223268) (Bakadono)
-Địa chỉ Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
+Điện thoại liên hệ: [**0918 870 780**](tel:+84918870780) (Midorishop)
+Địa chỉ 168A VÕ THỊ SÁU, P.8, Q.3, TP.HCM
 
 
-Facebook chính  [**Thảo Am Tân Uyên**](https://www.facebook.com/thaoamtanuyen).
-Đặt hàng & Nhắn tin Message, Chăm sóc khách hàng qua Facebook: [**Send Message, Order, CSKH via Fanpage**](http://m.me/thaoamtanuyen)
+Facebook chính  [**Đồ trang trí tiệc cưới**](https://www.facebook.com/dotrangtricuoi).
+Đặt hàng & Nhắn tin Message, Chăm sóc khách hàng qua Facebook: [**Send Message, Order, CSKH via Fanpage**](https://www.facebook.com/dotrangtricuoi)
